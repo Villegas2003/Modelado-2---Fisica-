@@ -1,4 +1,4 @@
-# Análisis de Viga con Cable Inclinado
+# Modelado 2
 
 Este proyecto permite simular el análisis de una viga con cable inclinado utilizando fórmulas físicas para calcular la tensión, las reacciones en la viga y mostrar una representación gráfica.
 
