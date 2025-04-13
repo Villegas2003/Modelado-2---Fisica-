@@ -16,16 +16,22 @@ Este proyecto permite simular el análisis de una viga con cable inclinado utili
 
 2.	Instala las dependencias necesarias desde requirements.txt:
 
+```bash
 pip install -r requirements.txt
+```
 
-3.	Instala Strea,lit
-
+3.	Instala Streamlit
+   
+```bash
 pip install streamlit  
+```
 
 Uso
 	1.	Una vez que hayas instalado las dependencias, ejecuta la aplicación:
-
+ 
+```bash
 streamlit run app.py
+```
 
 
 	1.	La aplicación se abrirá automáticamente en tu navegador predeterminado.
