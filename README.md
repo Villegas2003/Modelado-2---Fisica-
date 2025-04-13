@@ -4,10 +4,15 @@ Este proyecto permite simular el análisis de una viga con cable inclinado utili
 
 ## Requisitos
 
-- *Python 3.x* (se recomienda la versión 3.7 o superior).
+- *Python 3.x* (se recomienda la versión 3.9 o superior).
 - *Streamlit*: Framework para construir la interfaz web.
 - *Matplotlib*: Biblioteca para gráficos.
 - *NumPy*: Biblioteca para cálculos numéricos.
+
+## Descarga de Python 3.9.0
+- *Windows*: Python 3.9.0 para Windows​
+- *macOS*: Python 3.9.0 para macOS​
+- *Linux*: La mayoría de distribuciones de Linux incluyen Python en sus repositorios. Puedes instalar Python 3.9 utilizando el gestor de paquetes de tu distribución.
 
 ## Instalación
 
@@ -15,11 +20,6 @@ Este proyecto permite simular el análisis de una viga con cable inclinado utili
 
 
 2.	Instala las dependencias necesarias desde requirements.txt:
-
-```bash
-pip freeze > requirements.txt
-```
-
 
 ```bash
 pip install -r requirements.txt
