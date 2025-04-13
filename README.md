@@ -18,6 +18,9 @@ Este proyecto permite simular el análisis de una viga con cable inclinado utili
 
 pip install -r requirements.txt
 
+3.	Instala Strea,lit
+
+pip install streamlit  
 
 Uso
 	1.	Una vez que hayas instalado las dependencias, ejecuta la aplicación:
