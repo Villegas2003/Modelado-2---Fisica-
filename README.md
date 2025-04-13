@@ -17,6 +17,11 @@ Este proyecto permite simular el análisis de una viga con cable inclinado utili
 2.	Instala las dependencias necesarias desde requirements.txt:
 
 ```bash
+pip freeze > requirements.txt
+```
+
+
+```bash
 pip install -r requirements.txt
 ```
 
